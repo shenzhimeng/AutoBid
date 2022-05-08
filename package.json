@@ -1,0 +1,12 @@
+{
+    "name": "auto-bid",
+    "version": "1.0.0",
+    "description": "A open sea auto bid tool",
+    "main": "auto-bid.js",
+    "author": "0xBeWater",
+    "private": true,
+    "dependencies": {
+        "@0x/subproviders": "^6.6.5",
+        "opensea-js": "^3.0.4"
+    }
+}
