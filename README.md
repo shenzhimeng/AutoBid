@@ -96,6 +96,7 @@ https://www.npmjs.com/package/@0x/subproviders
 
 就这两，都是 OpenSea 的开源代码中有使用的
 
+现在opensea 升级了api，等更新
 
 
 ## 目前存在的问题
