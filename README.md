@@ -1,3 +1,5 @@
+OpenSea 更新了api，这份代码可能不适用了
+
 # 功能
 OpenSea 自动出价工具
 
